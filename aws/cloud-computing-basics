@@ -1,0 +1,27 @@
+Various kinds of cloud computing:
+1) Infrastructure as Service:
+- Provide vuilding blocks of cloud IT
+- Provides, networking, computers, data storage space
+- Highest level of flexibility
+- Easy parallel with traditional on premise IT
+
+Org managed: Apps, data, runtime, middleware, OS
+Vendor manged: Virtualisation, servers, storage, networking
+
+2) Platorm as a service:
+- Remove the need to manage underlying infra
+
+Org managed: Apps, data, 
+Vendor manged: runtime, middleware, OS,Virtualisation, servers, storage, networking
+
+
+3) SAAS: Completed and run by software provider
+- Every managed by thing by Vendor
+
+
+Factors while choosing regions:
+- Compliance: governance and legel requirements
+- Proximity
+- Available services
+- Pricing - 3 pricing fundamentals are Compute, storage and data transfer out of the cloud
+

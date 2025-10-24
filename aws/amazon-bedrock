@@ -1,0 +1,33 @@
+- Build genai apps on AWS
+- Fully managed
+- Keep control of data used to train the model
+- Pay-per-use pricing
+- Unified APIs
+- Leverage  wide array of foundational models
+- RAG, LLM agents are out of box
+- Security, Privacy and Responsible AI features
+- It makes a copy of FM available only to you 
+which you can finetune with your own data.
+
+
+Parameters to consider while choosing base foundational models:
+-------------------------------------------------------------
+Modality
+perf requirements
+latency
+capabilities
+constraints
+compliance
+level of customization
+model size
+inference options
+licensing agreements
+context windows 
+latency
+pricing
+
+Amazon Titan:
+-------------
+- High performance foundation model from AWS
+- Image, text, multimodal choices via fully managed apis
+- Can customize with your own data
